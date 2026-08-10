@@ -1,6 +1,6 @@
 # ℹ️ About me
 
-My name is **Anxo**, a **Multi-platform Application Development (SP: DAM)** student with a keen interest in backend development and systems administration.
+My name is **Anxo**, a **Multi-platform Application Development (SPAIN: C.S. DAM)** student with a keen interest in backend development and systems administration.
 
 I define myself as someone with strong analytical skills and a commitment to continuous self-directed learning, motivated by a deep understanding of how modern technologies work.
 
