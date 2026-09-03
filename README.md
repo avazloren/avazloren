@@ -23,7 +23,7 @@ I define myself as someone with strong analytical skills and a commitment to con
   
 - Multiplatform Application Development (SP: F.P. Superior **DAM**) - Current
 
-- English Mid Level **B1** (Camebridge)
+- **English B1** Mid Level (Camebridge)
 
 
 ## ✉️ Contact me
