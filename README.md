@@ -12,7 +12,7 @@ I define myself as someone with strong analytical skills and a commitment to con
 | **Databases** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Containers & Virtualization** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white) |
 | **Systems & Networking** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) |
-| **Identity Systems** | ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![OpenLDAP](https://img.shields.io/badge/OpenLDAP-006599?style=for-the-badge&logo=openldap&logoColor=white) |
+| **Identity Systems** | ![Windows Server Active Directory](https://img.shields.io/badge/Windows%20Server%20Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![OpenLDAP](https://img.shields.io/badge/OpenLDAP-006599?style=for-the-badge&logo=openldap&logoColor=white) |
 
  
 ## 🎓 Academic Training
@@ -23,7 +23,7 @@ I define myself as someone with strong analytical skills and a commitment to con
   
 - Multiplatform Application Development (SP: F.P. Superior **DAM**) - Current
 
-- **English B1** Mid Level (Camebridge)
+- **English B1** Mid Level (Camebridge Exam)
 
 
 ## ✉️ Contact me
