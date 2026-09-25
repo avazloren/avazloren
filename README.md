@@ -1,6 +1,6 @@
 # ℹ️ About me
 
-My name is **Anxo**, a **Multi-platform Application Development (SPAIN: C.S. DAM)** student with a keen interest in backend development and systems administration.
+My name is **Anxo**, a **Higher Technician in Multi-platform Applications Development (SPAIN: C.S. DAM)** student with a keen interest in backend development and systems administration.
 
 I define myself as someone with strong analytical skills and a commitment to continuous self-directed learning, motivated by a deep understanding of how modern technologies work.
 
@@ -17,11 +17,11 @@ I define myself as someone with strong analytical skills and a commitment to con
  
 ## 🎓 Academic Training
 
-- Microcomputer Systems and Networks (SP: F.P. Medio **SMR**)
+- Technician in Microcomputer Systems and Networks (SP: F.P. Medio **SMR**)
  
-- Networked Computer Systems Administration (SP: F.P. Superior **ASIR**)
+- Higher Technician in Network Computer Systems Administration (SP: F.P. Superior **ASIR**)
   
-- Multiplatform Application Development (SP: F.P. Superior **DAM**) - Current
+- Higher Technician in Multi-platform Applications Development (SP: F.P. Superior **DAM**) - Current
 
 - **English B1** Mid Level (Camebridge Exam)
 
